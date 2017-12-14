@@ -22,6 +22,8 @@ Default
 
 ```
 
+![arduion-ied step](images/64-step.jpg)
+
 # How to Upload Firmware 
 
 * Select Processer (ATmega2560) and prot (ex. com5 for window )
