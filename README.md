@@ -2,10 +2,10 @@
 firmware marlin 1.6 support micromake C1 
 fixed. homing (z) slow  and ENDSTOP PIN  for mini micromake board 
 Default  
-# Enable Heat Bed 
-# Power Supply 1 
-# 64  steps per unit
-# No auto bed level 
+    - Enable Heat Bed 
+    - Power Supply 1 
+    - 64  steps per unit
+    - No auto bed level 
 
 
 # Prerequisite 
